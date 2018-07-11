@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressBar">
+        <!--底部线条属性-->
+        <attr name="bottom_line_color" format="color"/>
+        <attr name="bottom_line_height" format="dimension"/>
+        <!--顶部线条属性-->
+        <attr name="above_line_height" format="dimension"/>
+        <attr name="above_line_color" format="color"/>
+        <!--指示器属性-->
+        <attr name="indicator_color" format="color"/>
+        <attr name="indicator_radius" format="dimension"/>
+        <!--指示器内文字的属性-->
+        <attr name="text_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+    </declare-styleable>
+</resources>
