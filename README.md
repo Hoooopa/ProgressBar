@@ -10,3 +10,8 @@
 
 > 下一个，准备去模仿一个复杂的！[几条曲线构建Android表白程序](https://www.jianshu.com/p/e936a7d371aa)
 
+# 上图
+
+> 下面的Button是为了手动增加进度  i++
+
+![](https://github.com/Hoooopa/ProgressBar/blob/master/pic/S80711-221951.jpg?raw=true)
